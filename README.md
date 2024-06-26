@@ -11,15 +11,15 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiên
   ## Tecnologias e Frameworks
 
 ## Linguagens
-| <img src="png/c.png" width="80" height="auto"> | <img src="png/java.png" width="80" height="auto">| <img src="png/javascript.png" width="80" height="auto">| <img src="png/typescript.png" width="80" height="auto"> |
+| <img src="png/c.png" width="50" height="auto"> | <img src="png/java.png" width="50" height="auto">| <img src="png/javascript.png" width="50" height="auto">| <img src="png/typescript.png" width="50" height="auto"> |
 |:---:|:---:|:---:|:---:|
 
-| <img src="png/css.png" width="80" height="auto"> | <img src="png/html.png" width="80" height="auto">| <img src="png/sql.png" width="80" height="auto"> |
+| <img src="png/css.png" width="50" height="auto"> | <img src="png/html.png" width="50" height="auto">| <img src="png/sql.png" width="50" height="auto"> |
 |:---:|:---:|:---:|
 
 ## Frameworks
 
-| <img src="png/.net.png" width="80" height="auto"> | <img src="png/reactNative.png" width="80" height="auto"> | <img src="png/spring-boot.png" width="80" height="auto">   | <img src="png/mysql.png" width="80" height="auto"> |
+| <img src="png/.net.png" width="50" height="auto"> | <img src="png/reactNative.png" width="50" height="auto"> | <img src="png/spring-boot.png" width="50" height="auto">   | <img src="png/mysql.png" width="50" height="auto"> |
 |:---:|:---:|:---:|:---:|
 
 
