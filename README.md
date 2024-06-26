@@ -37,7 +37,8 @@ Aqui estão alguns dos meus projetos favoritos:
 - Procure Jogadores pelo ID;
 - Veja as últimas 20 partidas e suas performances;
   
- ![Demonstração](https://github.com/Emerson2342/dota2/blob/main/assets/home.jpg) | ![Demonstração](https://github.com/Emerson2342/dota2/blob/main/assets/player.jpg) 
+
+|<img src="https://raw.githubusercontent.com/Emerson2342/dota2/main/assets/home.jpg" width="250" height="auto"> | <img src="https://raw.githubusercontent.com/Emerson2342/dota2/main/assets/player.jpg" width="250" height="auto">|
 |:---:|:---:|
 
 
@@ -46,22 +47,22 @@ Aqui estão alguns dos meus projetos favoritos:
 - Sorteie os jogadores antes de cada jogo;
 - Marque os gols e assistências para individualmente;
 
-  
-![Demonstração](https://github.com/Emerson2342/proxima-futebol/blob/main/Imagens/partida.jpeg) | ![Demonstração](https://github.com/Emerson2342/proxima-futebol/blob/main/Imagens/listaGeral.jpeg) 
+
+|<img src="https://raw.githubusercontent.com/Emerson2342/proxima-futebol/main/Imagens/partida.jpeg" width="250" height="auto"> | <img src="https://raw.githubusercontent.com/Emerson2342/proxima-futebol/main/Imagens/listaGeral.jpeg" width="250" height="auto">|
 |:---:|:---:|
 
 ## [API de Filmes e Séries](https://github.com/Emerson2342/apI-filmes) 
 - Veja os filmes e séries atuais em destaque;
 - Busque por nome ou gênero;
-- Salve-os na lista para lembrar de assistir mais tarde;
-  
-![Demonstração](https://github.com/Emerson2342/API-filmes/blob/main/Images/home.jpg) | ![Demonstração](https://github.com/Emerson2342/API-filmes/blob/main/Images/filmes.jpg) 
+- Salve-os na lista para lembrar de assistir mais tarde;  
+
+|<img src="https://raw.githubusercontent.com/Emerson2342/API-filmes/main/Images/home.jpg" width="250" height="auto"> | <img src="https://raw.githubusercontent.com/Emerson2342/API-filmes/main/Images/filmes.jpg" width="250" height="auto">|
 |:---:|:---:|
 
 ## [Gerenciador de Senhas](https://github.com/Emerson2342/gerador-senha/) 
 - Customize a criação de senhas com caracteres especiais ou numéricos;
 - Salve suas senhas com maior facilidade;
 - Aplicativo sem conexão com a internet para evitar invasões;  
-  
-![Demonstração](https://github.com/Emerson2342/gerador-senha/blob/main/Imagens/PaginaPrincipal.jpeg) | ![Demonstração](https://github.com/Emerson2342/gerador-senha/blob/main/Imagens/Senhas.jpeg) 
+
+|<img src="https://raw.githubusercontent.com/Emerson2342/gerador-senha/main/Imagens/PaginaPrincipal.jpeg" width="250" height="auto"> | <img src="https://raw.githubusercontent.com/Emerson2342/gerador-senha/main/Imagens/Senhas.jpeg" width="250" height="auto">|
 |:---:|:---:|
