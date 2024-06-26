@@ -12,8 +12,10 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiên
 
 Aqui estão algumas das tecnologias e frameworks que eu conheço:
 
-| ![.NET](png/.net.png) | ![C#](png/c.png) | ![Java](png/java.png) | ![React Native](png/reactNative.png) | ![JavaScript](png/javascript.png) | ![TypeScript](png/typescript.png) | ![Spring Boot](png/spring-boot.png) | ![CSS](png/css.png) | ![HTML](png/html.png) | ![MySQL](png/mysql.png) |
+| <img src="png/.net.png" width="100" height="auto"> | <img src="png/c.png" width="100" height="auto"> | <img src="png/java.png" width="100" height="auto"> | <img src="png/reactNative.png" width="100" height="auto"> | <img src="png/javascript.png" width="100" height="auto"> | <img src="png/typescript.png" width="100" height="auto"> | <img src="png/spring-boot.png" width="100" height="auto"> | <img src="png/css.png" width="100" height="auto"> | <img src="png/html.png" width="100" height="auto"> | <img src="png/mysql.png" width="100" height="auto"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
 
 
 
