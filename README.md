@@ -12,8 +12,8 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiên
 
 Aqui estão algumas das tecnologias e frameworks que eu conheço:
 
-| <img src="png/.net.png" width="100" height="auto"> | <img src="png/c.png" width="100" height="auto"> | <img src="png/java.png" width="100" height="auto"> | <img src="png/reactNative.png" width="100" height="auto"> | <img src="png/javascript.png" width="100" height="auto"> | <img src="png/typescript.png" width="100" height="auto"> | <img src="png/spring-boot.png" width="100" height="auto"> | <img src="png/css.png" width="100" height="auto"> | <img src="png/html.png" width="100" height="auto"> | <img src="png/mysql.png" width="100" height="auto"> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="png/.net.png" width="100" height="auto"> | <img src="png/c.png" width="100" height="auto"> | <img src="png/java.png" width="auto" height="80"> | <img src="png/reactNative.png" width="150" height="auto"> | <img src="png/javascript.png" width="100" height="auto"> | <img src="png/typescript.png" width="100" height="auto"> | <img src="png/spring-boot.png" width="100" height="auto"> | <img src="png/css.png" width="100" height="auto"> | <img src="png/html.png" width="100" height="auto"> | <img src="png/sql.png" width="100" height="auto"> | <img src="png/mysql.png" width="100" height="auto"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 
