@@ -3,7 +3,7 @@
 Sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiência em desenvolvimento de aplicativos móveis e atualmente estou focando no back end com .NET C# e Java. Aqui você encontrará alguns dos meus projetos favoritos e mais interessantes.
 
 ## Sobre mim
-- 🔭 Atualmente estou trabalhando em [Sistema de Gestão Empresarial](https://github.com/Emerson2342/gestao-empresarial).;
+- 🔭 Atualmente estou trabalhando no projeto [Sistema de Gestão Empresarial](https://github.com/Emerson2342/gestao-empresarial).;
 - 🌱 Estou aprendendo novas técnicas de back end com .NET C# e Java;
 - 👯 Estou procurando colaborar em projetos de back end e desenvolvimento de APIs;
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/emersonribeiro2342/) ou [Email](mailto:lyncoln_erc@hotmail.com).
