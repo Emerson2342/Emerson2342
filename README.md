@@ -12,11 +12,10 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiên
 
 Aqui estão algumas das tecnologias e frameworks que eu conheço:
 
-![.NET]()
-![C#]()
-![Java]()
-![ASP.NET Core]()
-![Spring]()
+| ![.NET](png/.net.png) | ![C#](png/c.png) | ![Java](png/java.png) | ![React Native](png/reactNative.png) | ![JavaScript](png/javascript.png) | ![TypeScript](png/typescript.png) | ![Spring Boot](png/spring-boot.png) | ![CSS](png/css.png) | ![HTML](png/html.png) | ![MySQL](png/mysql.png) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
 
 ## Projetos em Destaque
 Aqui estão alguns dos meus projetos favoritos:
