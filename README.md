@@ -11,11 +11,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiên
   ## Tecnologias e Frameworks
 
 ## Linguagens
-| <img src="png/c.png" width="50" height="auto"> | <img src="png/java.png" width="50" height="auto">| <img src="png/javascript.png" width="50" height="auto">| <img src="png/typescript.png" width="50" height="auto"> |
-|:---:|:---:|:---:|:---:|
+| <img src="png/c.png" width="50" height="auto"> | <img src="png/java.png" width="50" height="auto">| <img src="png/javascript.png" width="50" height="auto">| <img src="png/typescript.png" width="50" height="auto"> | <img src="png/css.png" width="50" height="auto"> | <img src="png/html.png" width="50" height="auto">| <img src="png/sql.png" width="50" height="auto"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-| <img src="png/css.png" width="50" height="auto"> | <img src="png/html.png" width="50" height="auto">| <img src="png/sql.png" width="50" height="auto"> |
-|:---:|:---:|:---:|
 
 ## Frameworks
 
