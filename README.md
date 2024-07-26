@@ -1,15 +1,6 @@
-# Olá! Eu sou Emerson 👋
+## Seja bem vindo!!
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiência em desenvolvimento de aplicativos móveis e atualmente estou focando no back end com .NET C#. Aqui você encontrará alguns dos meus projetos favoritos e mais interessantes.
-
-## Sobre mim
-
-- 🔭 Atualmente estou trabalhando em projetos back end com .NET Core.;
-- 🌱 Diariamente faço atualizações nas aplicações mobile, tanto no back end quanto no front end;
-- 👯 Estou procurando colaborar em projetos de back end e desenvolvimento de APIs;
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/emersonribeiro2342/) ou [Email](mailto:lyncoln_erc@hotmail.com).
-
-  ## Tecnologias
+## Tecnologias
 
 | <img src="png/c.png" width="50" height="auto"> | <img src="png/javascript.png" width="50" height="auto"> | <img src="png/typescript.png" width="50" height="auto"> | <img src="png/css.png" width="50" height="auto"> | <img src="png/html.png" width="50" height="auto"> |
 | :--------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------: | :-----------------------------------------------: |
