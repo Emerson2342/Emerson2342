@@ -28,7 +28,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiên
 - Veja as últimas 20 partidas e suas performances;
   
 
-|<img src="https://raw.githubusercontent.com/Emerson2342/dota2/main/assets/homePage.jpeg" width="250" height="auto"> | <img src="https://raw.githubusercontent.com/Emerson2342/dota2/main/assets/player.jpeg" width="250" height="auto">|
+|<img src="https://raw.githubusercontent.com/Emerson2342/dota2/main/assets/home.jpeg" width="250" height="auto"> | <img src="https://raw.githubusercontent.com/Emerson2342/dota2/main/assets/player.jpeg" width="250" height="auto">|
 |:---:|:---:|
 
 
