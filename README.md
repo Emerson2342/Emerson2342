@@ -16,6 +16,7 @@
 - Veja as últimas 20 partidas e suas performances;
 - Confira os itens dos jogadores da partida;
 - Veja os heróis jogados nas últimas 20 partidas;
+- Escolha o tema entre Iluminados ou Temidos;
 
 |     <img src="./Projects/Dota2/home.jpeg" width="250" height="auto">     | <img src="./Projects/Dota2/player.jpeg" width="250" height="auto">  |
 | :----------------------------------------------------------------------: | :-----------------------------------------------------------------: |
