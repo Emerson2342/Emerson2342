@@ -18,9 +18,9 @@
 - Veja os heróis jogados nas últimas 20 partidas;
 - Escolha o tema entre Iluminados ou Temidos;
 
-| <img src="./Projects/Dota2/homeRadiant.jpeg" width="250" height="auto"> |   <img src="./Projects/Dota2/homeDire.jpeg" width="250" height="auto">   |
-| :---------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| <img src="./Projects/Dota2/playerDire.jpeg" width="250" height="auto">  | <img src="./Projects/Dota2/matchDetails.jpeg" width="250" height="auto"> |
+|  <img src="./Projects/Dota2/lunaHome.jpeg" width="250" height="auto">  |   <img src="./Projects/Dota2/qopHome.jpeg" width="250" height="auto">    |
+| :--------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+| <img src="./Projects/Dota2/playerDire.jpeg" width="250" height="auto"> | <img src="./Projects/Dota2/matchDetails.jpeg" width="250" height="auto"> |
 
 ## [Gerenciador de Partidas de Futebol Society](https://github.com/Emerson2342/proxima-futebol)
 
