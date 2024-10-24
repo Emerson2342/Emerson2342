@@ -18,9 +18,7 @@
 - Veja os heróis jogados nas últimas 20 partidas;
 - Escolha o tema entre Iluminados ou Temidos;
 
-|  <img src="./Projects/Dota2/lunaHome.jpeg" width="250" height="auto">  |   <img src="./Projects/Dota2/qopHome.jpeg" width="250" height="auto">    |
-| :--------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| <img src="./Projects/Dota2/playerDire.jpeg" width="250" height="auto"> | <img src="./Projects/Dota2/matchDetails.jpeg" width="250" height="auto"> |
+<img src="./Projects/Dota2/lunaHome.jpeg" width="250" height="auto"> <img src="./Projects/Dota2/qopHome.jpeg" width="250" height="auto"> <img src="./Projects/Dota2/playerDire.jpeg" width="250" height="auto"> <img src="./Projects/Dota2/matchDetails.jpeg" width="250" height="auto">
 
 ## [Sistema de Tarefas em Blazor Full Stack .NET](https://github.com/Emerson2342/task-api)
 
@@ -39,9 +37,7 @@
 - Sorteie os jogadores antes de cada jogo;
 - Marque os gols e assistências para individualmente;
 
-|  <img src="./Projects/Proxima/partida.jpeg" width="250" height="auto">   |  <img src="./Projects/Proxima/proxima.jpeg" width="250" height="auto">   |
-| :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| <img src="./Projects/Proxima/listaGeral.jpeg" width="250" height="auto"> | <img src="./Projects/Proxima/artilharia.jpeg" width="250" height="auto"> |
+<img src="./Projects/Proxima/partida.jpeg" width="250" height="auto"> <img src="./Projects/Proxima/proxima.jpeg" width="250" height="auto"> <img src="./Projects/Proxima/listaGeral.jpeg" width="250" height="auto"> <img src="./Projects/Proxima/artilharia.jpeg" width="250" height="auto">
 
 ## [API de Filmes e Séries](https://github.com/Emerson2342/apI-filmes)
 
@@ -49,9 +45,7 @@
 - Busque por nome ou gênero;
 - Salve-os na lista para lembrar de assistir mais tarde;
 
-|     <img src="./Projects/APIFilmes/home.jpg" width="250" height="auto">      |   <img src="./Projects/APIFilmes/filmes.jpg" width="250" height="auto">    |
-| :--------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| <img src="./Projects/APIFilmes/detalhesFilme.jpg" width="250" height="auto"> | <img src="./Projects/APIFilmes/listaFilmes.jpg" width="250" height="auto"> |
+<img src="./Projects/APIFilmes/home.jpg" width="250" height="auto"> <img src="./Projects/APIFilmes/filmes.jpg" width="250" height="auto"> <img src="./Projects/APIFilmes/detalhesFilme.jpg" width="250" height="auto"><img src="./Projects/APIFilmes/listaFilmes.jpg" width="250" height="auto">
 
 ## [Gerenciador de Senhas](https://github.com/Emerson2342/gerador-senha/)
 
