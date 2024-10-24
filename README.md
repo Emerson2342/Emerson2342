@@ -22,6 +22,17 @@
 | :--------------------------------------------------------------------: | :----------------------------------------------------------------------: |
 | <img src="./Projects/Dota2/playerDire.jpeg" width="250" height="auto"> | <img src="./Projects/Dota2/matchDetails.jpeg" width="250" height="auto"> |
 
+## [Sistema de Tarefas em Blazor Full Stack .NET](https://github.com/Emerson2342/task-api)
+
+- Exercício para solidificar meus conhecimentos no stack .NET;
+- Aplicação feita com Blazor Server do .NET;
+- Comunicação do backend com front end apenas com endpoints;
+- Implementação de Domínios Ricos e autenticação via token, entre outros recursos.
+
+| <img src="./Projects/TaskList/homeLogin.jpg" width="600" height="auto"> |    <img src="./Projects/TaskList/taskList.jpg" width="600" height="auto">    |
+| :---------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+| <img src="./Projects/TaskList/editTask.jpg" width="600" height="auto">  | <img src="./Projects/TaskList/forgetPassword.jpg" width="600" height="auto"> |
+
 ## [Gerenciador de Partidas de Futebol Society](https://github.com/Emerson2342/proxima-futebol)
 
 - Substitua a prancheta pelo celular;
