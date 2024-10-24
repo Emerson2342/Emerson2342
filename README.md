@@ -37,7 +37,7 @@
 - Sorteie os jogadores antes de cada jogo;
 - Marque os gols e assistências para individualmente;
 
-<img src="./Projects/Proxima/partida.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/proxima.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/listaGeral.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/artilharia.jpeg" width="250" height="auto">
+<img src="./Projects/Proxima/partida.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/proxima.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/listaGeral.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/artilharia.jpeg" width="200" height="auto">
 
 ## [API de Filmes e Séries](https://github.com/Emerson2342/apI-filmes)
 
@@ -45,7 +45,7 @@
 - Busque por nome ou gênero;
 - Salve-os na lista para lembrar de assistir mais tarde;
 
-<img src="./Projects/APIFilmes/home.jpg" width="200" height="auto"> <img src="./Projects/APIFilmes/filmes.jpg" width="200" height="auto"> <img src="./Projects/APIFilmes/detalhesFilme.jpg" width="200" height="auto"><img src="./Projects/APIFilmes/listaFilmes.jpg" width="250" height="auto">
+<img src="./Projects/APIFilmes/home.jpg" width="200" height="auto"> <img src="./Projects/APIFilmes/filmes.jpg" width="200" height="auto"> <img src="./Projects/APIFilmes/detalhesFilme.jpg" width="200" height="auto"><img src="./Projects/APIFilmes/listaFilmes.jpg" width="200" height="auto">
 
 ## [Gerenciador de Senhas](https://github.com/Emerson2342/gerador-senha/)
 
