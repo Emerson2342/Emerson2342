@@ -37,7 +37,7 @@
 - Sorteie os jogadores antes de cada jogo;
 - Marque os gols e assistências para individualmente;
 
-<img src="./Projects/Proxima/partida.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/proxima.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/listaGeral.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/artilharia.jpeg" width="200" height="auto">
+<img src="./Projects/Proxima/partida.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/proxima.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/configuracoes.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/artilharia.jpeg" width="200" height="auto">
 
 ## [API de Filmes e Séries](https://github.com/Emerson2342/apI-filmes)
 
