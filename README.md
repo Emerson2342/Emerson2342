@@ -15,10 +15,10 @@
 - Procure Jogadores pelo ID;
 - Veja as últimas 20 partidas e suas performances;
 - Confira os itens dos jogadores da partida;
+- Analise a média da performance de cada jogador na partida baseada no herói jogado;
 - Veja os heróis jogados nas últimas 20 partidas;
-- Escolha o tema entre Iluminados ou Temidos;
 
-<img src="./Projects/Dota2/lunaHome.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/qopHome.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/playerDire.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/matchDetails.jpeg" width="200" height="auto">
+<img src="./Projects/Dota2/home.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/matchDetails1.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/matchDetails2.jpeg" width="200" height="auto">
 
 ## [Sistema de Tarefas em Blazor Full Stack .NET](https://github.com/Emerson2342/task-api)
 
@@ -31,6 +31,14 @@
 | :---------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 | <img src="./Projects/TaskList/editTask.jpg" width="600" height="auto">  | <img src="./Projects/TaskList/forgetPassword.jpg" width="600" height="auto"> |
 
+## [API de Filmes e Séries](https://github.com/Emerson2342/apI-filmes)
+
+- Veja os filmes e séries atuais em destaque;
+- Busque por nome ou gênero;
+- Salve-os na lista para lembrar de assistir mais tarde;
+
+<img src="./Projects/APIFilmes/home.jpg" width="200" height="auto"> <img src="./Projects/APIFilmes/filmes.jpg" width="200" height="auto"> <img src="./Projects/APIFilmes/detalhesFilme.jpg" width="200" height="auto"><img src="./Projects/APIFilmes/listaFilmes.jpg" width="200" height="auto">
+
 ## [Gerenciador de Partidas de Futebol Society](https://github.com/Emerson2342/proxima-futebol)
 
 - Substitua a prancheta pelo celular;
@@ -39,13 +47,6 @@
 
 <img src="./Projects/Proxima/partida.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/proxima.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/configuracoes.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/artilharia.jpeg" width="200" height="auto">
 
-## [API de Filmes e Séries](https://github.com/Emerson2342/apI-filmes)
-
-- Veja os filmes e séries atuais em destaque;
-- Busque por nome ou gênero;
-- Salve-os na lista para lembrar de assistir mais tarde;
-
-<img src="./Projects/APIFilmes/home.jpg" width="200" height="auto"> <img src="./Projects/APIFilmes/filmes.jpg" width="200" height="auto"> <img src="./Projects/APIFilmes/detalhesFilme.jpg" width="200" height="auto"><img src="./Projects/APIFilmes/listaFilmes.jpg" width="200" height="auto">
 
 ## [Gerenciador de Senhas](https://github.com/Emerson2342/gerador-senha/)
 
