@@ -18,7 +18,7 @@
 - Analise a média da performance de cada jogador na partida baseada no herói jogado;
 - Veja os heróis jogados nas últimas 20 partidas;
 
-<img src="./Projects/Dota2/home.jpeg" width="300" height="auto"> <img src="./Projects/Dota2/matchDetails1.jpeg" width="300" height="auto"> <img src="./Projects/Dota2/matchDetails2.jpeg" width="300" height="auto">
+<img src="./Projects/Dota2/home.jpeg" width="275" height="auto"> <img src="./Projects/Dota2/matchDetails1.jpeg" width="275" height="auto"> <img src="./Projects/Dota2/matchDetails2.jpeg" width="275" height="auto">
 
 ## [Sistema de Tarefas em Blazor Full Stack .NET](https://github.com/Emerson2342/task-api)
 
