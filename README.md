@@ -16,9 +16,9 @@
 - Veja as últimas 20 partidas e suas performances;
 - Confira os itens dos jogadores da partida;
 - Analise a média da performance de cada jogador na partida baseada no herói jogado;
-- Veja os heróis jogados nas últimas 20 partidas;
+- Gráfico minuto a minuto mostrando a diferença de XP e Patrimônio Líquido;
 
-<img src="./Projects/Dota2/home.jpeg" width="275" height="auto"> <img src="./Projects/Dota2/matchDetails1.jpeg" width="275" height="auto"> <img src="./Projects/Dota2/matchDetails2.jpeg" width="275" height="auto">
+<img src="./Projects/Dota2/home.jpg" width="275" height="auto"> <img src="./Projects/Dota2/matchDetails1.jpg" width="275" height="auto"> <img src="./Projects/Dota2/matchDetails2.jpg" width="275" height="auto">
 
 ## [Sistema de Tarefas em Blazor Full Stack .NET](https://github.com/Emerson2342/task-api)
 
@@ -46,7 +46,6 @@
 - Marque os gols e assistências para individualmente;
 
 <img src="./Projects/Proxima/partida.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/proxima.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/configuracoes.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/artilharia.jpeg" width="200" height="auto">
-
 
 ## [Gerenciador de Senhas](https://github.com/Emerson2342/gerador-senha/)
 
