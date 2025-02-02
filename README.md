@@ -10,7 +10,7 @@
 
 ## Projetos em Destaque
 
-## [API do Dota 2](https://github.com/Emerson2342/dota2)
+## [API do Dota 2](https://github.com/Emerson2342/dota2statistics)
 
 - Procure Jogadores pelo ID;
 - Veja as últimas 20 partidas e suas performances;
