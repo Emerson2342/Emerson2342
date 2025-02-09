@@ -12,13 +12,17 @@
 
 ## [API do Dota 2](https://github.com/Emerson2342/dota2statistics)
 
-- Procure Jogadores pelo ID;
+- Procure Jogadores por nome ou ID;
 - Veja as últimas 20 partidas e suas performances;
 - Confira os itens dos jogadores da partida;
 - Analise a média da performance de cada jogador na partida baseada no herói jogado;
 - Gráfico minuto a minuto mostrando a diferença de XP e Patrimônio Líquido;
+- Salve jogadores numa lista de favoritos;
+- Detalhes dos atributos dos heróis;
+- Descriçao de habilidades, cetro e aghanim shard dos heróis;
+- Veja as últimas partidas e campeonatos profissionais;
 
-<img src="./Projects/Dota2/home.jpg" width="275" height="auto"> <img src="./Projects/Dota2/matchDetails1.jpg" width="275" height="auto"> <img src="./Projects/Dota2/matchDetails2.jpg" width="275" height="auto">
+<img src="./Projects/Dota2/home.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/matchDetails.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/heroList.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/heroDetails.jpeg" width="200" height="auto">
 
 ## [Sistema de Tarefas em Blazor Full Stack .NET](https://github.com/Emerson2342/task-api)
 
