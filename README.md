@@ -23,7 +23,7 @@
 - Veja as últimas partidas e campeonatos profissionais;
 - Veja os heróis mais escolhidos e com melhores taxa de vitória;
 
-<img src="./Projects/Dota2/home.jpg" width="200" height="auto"> <img src="./Projects/Dota2/matchDetails.jpg" width="200" height="auto"> <img src="./Projects/Dota2/heroesList.jpg" width="200" height="auto"> <img src="./Projects/Dota2/heroDetails.jpg" width="200" height="auto">
+<img src="./Projects/Dota2/home.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/matchDetails.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/heroesList.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/heroDetails.jpeg" width="200" height="auto">
 
 ## [Sistema de Tarefas em Blazor Full Stack .NET](https://github.com/Emerson2342/task-api)
 
