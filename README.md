@@ -10,7 +10,7 @@
 
 ## Projetos em Destaque
 
-## [API do Dota 2](https://github.com/Emerson2342/dota2statistics)
+## [Dota 2 Stats: Explore, Analyze](https://github.com/Emerson2342/dota2statistics)
 
 - Procure Jogadores por nome ou ID;
 - Veja as últimas 20 partidas e suas performances;
@@ -23,7 +23,13 @@
 - Veja as últimas partidas e campeonatos profissionais;
 - Veja os heróis mais escolhidos e com melhores taxa de vitória;
 
+
 <img src="./Projects/Dota2/home.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/matchDetails.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/heroesList.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/heroDetails.jpeg" width="200" height="auto">
+
+<a href="https://play.google.com/store/apps/details?id=com.missinhoo.Dota2" target="_blank" rel="noopener noreferrer">
+  <img src="./png/playStore.png" width="200" height="auto" />
+</a>
+
 
 ## [Sistema de Tarefas em Blazor Full Stack .NET](https://github.com/Emerson2342/task-api)
 
