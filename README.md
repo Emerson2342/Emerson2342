@@ -10,7 +10,7 @@
 
 ## Projetos em Destaque
 
-## [Dota 2 Stats: Explore, Analyze](https://github.com/Emerson2342/dota2statistics)
+## [Dota 2 Stats: Explore, Analyze (React Native)](https://github.com/Emerson2342/dota2statistics)
 
 - Procure Jogadores por nome ou ID;
 - Veja as últimas 20 partidas e suas performances;
@@ -29,7 +29,7 @@
   <img src="./png/playStore.png" width="200" height="auto" />
 </a>
 
-## [DF Bus](https://github.com/Emerson2342/df-bus)
+## [DF Bus (Flutter)](https://github.com/Emerson2342/df-bus)
 
 - Pesquise as linhas de ônibus do Distrito Federal;
 - Pesquiser por origem e destino;
@@ -39,7 +39,7 @@
 
 <img src="./Projects/DfBus/linha.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/ref.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/rota.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/horario.jpeg" width="200" height="auto">
 
-## [Sistema de Tarefas em Blazor Full Stack .NET](https://github.com/Emerson2342/task-api)
+## [Sistema de Tarefas em Blazor Full Stack .NET (Blazor)](https://github.com/Emerson2342/task-api)
 
 - Exercício para solidificar meus conhecimentos no stack .NET;
 - Aplicação feita com Blazor Server do .NET;
@@ -50,7 +50,7 @@
 | :---------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 | <img src="./Projects/TaskList/editTask.jpg" width="600" height="auto">  | <img src="./Projects/TaskList/forgetPassword.jpg" width="600" height="auto"> |
 
-## [API de Filmes e Séries](https://github.com/Emerson2342/apI-filmes)
+## [API de Filmes e Séries (React Native)](https://github.com/Emerson2342/apI-filmes)
 
 - Veja os filmes e séries atuais em destaque;
 - Busque por nome ou gênero;
@@ -66,7 +66,7 @@
 
 <img src="./Projects/Proxima/partida.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/proxima.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/configuracoes.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/artilharia.jpeg" width="200" height="auto">
 
-## [Gerenciador de Senhas](https://github.com/Emerson2342/gerador-senha/)
+## [Gerenciador de Senhas (React Native)](https://github.com/Emerson2342/gerador-senha/)
 
 - Customize a criação de senhas com caracteres especiais ou numéricos;
 - Salve suas senhas com maior facilidade;
