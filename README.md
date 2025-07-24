@@ -39,6 +39,10 @@
 
 <img src="./Projects/DfBus/linha.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/ref.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/rota.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/horario.jpeg" width="200" height="auto">
 
+<a href="https://play.google.com/store/apps/details?id=com.missinhoo.df_bus" target="_blank" rel="noopener noreferrer">
+  <img src="./png/playStore.png" width="200" height="auto" />
+</a>
+
 ## [Sistema de Tarefas em Blazor Full Stack .NET (Blazor)](https://github.com/Emerson2342/task-api)
 
 - Exercício para solidificar meus conhecimentos no stack .NET;
