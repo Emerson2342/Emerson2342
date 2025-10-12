@@ -1,13 +1,5 @@
 ## Seja bem vindo!!
 
-## Tecnologias
-
-| <img src="png/c.png" width="50" height="auto"> | <img src="png/javascript.png" width="50" height="auto"> | <img src="png/typescript.png" width="50" height="auto"> | <img src="png/css.png" width="50" height="auto"> | <img src="png/html.png" width="50" height="auto"> |
-| :--------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------: | :-----------------------------------------------: |
-
-| <img src="png/.net.png" width="50" height="auto"> | <img src="png/reactNative.png" width="50" height="auto"> | <img src="png/mysql.png" width="50" height="auto"> | <img src="png/sql.png" width="50" height="auto"> |
-| :-----------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------: | :----------------------------------------------: |
-
 ## Projetos em Destaque
 
 ## [Dota 2 Stats: Explore, Analyze (React Native)](https://github.com/Emerson2342/dota2statistics)
@@ -39,28 +31,22 @@
 
 <img src="./Projects/DfBus/linha.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/ref.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/rota.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/horario.jpeg" width="200" height="auto">
 
-<a href="https://play.google.com/store/apps/details?id=com.missinhoo.df_bus" target="_blank" rel="noopener noreferrer">
-  <img src="./png/playStore.png" width="200" height="auto" />
-</a>
-
-## [Sistema de Tarefas em Blazor Full Stack .NET (Blazor)](https://github.com/Emerson2342/task-api)
-
-- Exercício para solidificar meus conhecimentos no stack .NET;
-- Aplicação feita com Blazor Server do .NET;
-- Comunicação do backend com front end apenas com endpoints;
-- Implementação de Domínios Ricos e autenticação via token, entre outros recursos.
-
-| <img src="./Projects/TaskList/homeLogin.jpg" width="600" height="auto"> |    <img src="./Projects/TaskList/taskList.jpg" width="600" height="auto">    |
-| :---------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-| <img src="./Projects/TaskList/editTask.jpg" width="600" height="auto">  | <img src="./Projects/TaskList/forgetPassword.jpg" width="600" height="auto"> |
-
-## [API de Filmes e Séries (React Native)](https://github.com/Emerson2342/apI-filmes)
+## [Filmes e Séries (Flutter)](https://github.com/Emerson2342/filmes-series)
 
 - Veja os filmes e séries atuais em destaque;
 - Busque por nome ou gênero;
 - Salve-os na lista para lembrar de assistir mais tarde;
 
-<img src="./Projects/APIFilmes/home.jpg" width="200" height="auto"> <img src="./Projects/APIFilmes/filmes.jpg" width="200" height="auto"> <img src="./Projects/APIFilmes/detalhesFilme.jpg" width="200" height="auto"><img src="./Projects/APIFilmes/listaFilmes.jpg" width="200" height="auto">
+<img src="./Projects/Filmes/movieList.jpeg" width="200" height="auto"> <img src="./Projects/Filmes/tvShowList.jpeg" width="200" height="auto"> <img src="./Projects/Filmes/movieDetails.jpeg" width="200" height="auto"> <img src="./Projects/Filmes/personDetails.jpeg" width="200" height="auto">
+
+## [Gerenciador de Senhas (React Native)](https://github.com/Emerson2342/passwords)
+
+- Customize a criação de senhas com caracteres especiais ou numéricos;
+- Salve suas senhas com maior facilidade;
+- Aplicativo sem conexão com a internet para evitar invasões;
+- Aplicativo com bloqueio caso o dispositivo tenha senha por impressão digital ou padrão;
+
+<img src="./Projects/Gerenciador_Senhas/home.jpeg" width="200" height="auto"> <img src="./Projects/Gerenciador_Senhas/saving.jpeg" width="200" height="auto"> <img src="./Projects/Gerenciador_Senhas/saved.jpeg" width="200" height="auto"> <img src="./Projects/Gerenciador_Senhas/trash.jpeg" width="200" height="auto">
 
 ## [Gerenciador de Partidas de Futebol Society](https://github.com/Emerson2342/proxima-futebol)
 
@@ -69,12 +55,3 @@
 - Marque os gols e assistências para individualmente;
 
 <img src="./Projects/Proxima/partida.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/proxima.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/configuracoes.jpeg" width="200" height="auto"> <img src="./Projects/Proxima/artilharia.jpeg" width="200" height="auto">
-
-## [Gerenciador de Senhas (React Native)](https://github.com/Emerson2342/gerador-senha/)
-
-- Customize a criação de senhas com caracteres especiais ou numéricos;
-- Salve suas senhas com maior facilidade;
-- Aplicativo sem conexão com a internet para evitar invasões;
-
-| <img src="https://raw.githubusercontent.com/Emerson2342/gerador-senha/main/Imagens/PaginaPrincipal.jpeg" width="250" height="auto"> | <img src="https://raw.githubusercontent.com/Emerson2342/gerador-senha/main/Imagens/Senhas.jpeg" width="250" height="auto"> |
-| :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
