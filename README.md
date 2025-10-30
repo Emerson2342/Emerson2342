@@ -15,12 +15,7 @@
 - Veja as últimas partidas e campeonatos profissionais;
 - Veja os heróis mais escolhidos e com melhores taxa de vitória;
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/Emerson2342/Emerson2342/main/Projects/Dota2/home.jpeg" width="200" />
-  <img src="https://raw.githubusercontent.com/Emerson2342/Emerson2342/main/Projects/Dota2/matchDetails.jpeg" width="200" />
-  <img src="https://raw.githubusercontent.com/Emerson2342/Emerson2342/main/Projects/Dota2/tfDetails.jpeg" width="200" />
-  <img src="https://raw.githubusercontent.com/Emerson2342/Emerson2342/main/Projects/Dota2/heroDetails.jpeg" width="200" />
-</p>
+<img src="./Projects/Dota2/home.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/matchDetails.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/tfDetails.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/heroDetails.jpeg" width="200" height="auto">
 
 <a href="https://play.google.com/store/apps/details?id=com.missinhoo.Dota2" target="_blank" rel="noopener noreferrer">
   <img src="./png/playStore.png" width="200" height="auto" />
