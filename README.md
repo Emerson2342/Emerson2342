@@ -1,5 +1,7 @@
 ## Seja bem vindo!!
-## 🖥️ Frontend  
+
+## 🖥️ Frontend
+
 <div>
   
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -12,7 +14,8 @@
 
 ---
 
-## ⚙️ Backend  
+## ⚙️ Backend
+
 <div>
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -51,6 +54,10 @@
 - Acompanhe a localização atual dos ônibus;
 
 <img src="./Projects/DfBus/linha.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/ref.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/rota.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/horario.jpeg" width="200" height="auto">
+
+<a href="https://play.google.com/store/apps/details?id=com.missinhoo.df_bus&hl=pt_BR" target="_blank" rel="noopener noreferrer">
+  <img src="./png/playStore.png" width="200" height="auto" />
+</a>
 
 ## [Filmes e Séries (Flutter)](https://github.com/Emerson2342/filmes-series)
 
