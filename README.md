@@ -28,6 +28,10 @@
 
 ## [Dota 2 Stats: Explore, Analyze (React Native)](https://github.com/Emerson2342/dota2statistics)
 
+<a href="https://play.google.com/store/apps/details?id=com.missinhoo.Dota2" target="_blank" rel="noopener noreferrer">
+  <img src="./png/playStore.png" width="150" height="auto" />
+</a
+
 - Procure Jogadores por nome ou ID;
 - Veja as últimas 20 partidas e suas performances;
 - Confira os itens dos jogadores da partida;
@@ -39,13 +43,13 @@
 - Veja as últimas partidas e campeonatos profissionais;
 - Veja os heróis mais escolhidos e com melhores taxa de vitória;
 
-<img src="./Projects/Dota2/home.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/matchDetails.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/tfDetails.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/heroDetails.jpeg" width="200" height="auto">
-
-<a href="https://play.google.com/store/apps/details?id=com.missinhoo.Dota2" target="_blank" rel="noopener noreferrer">
-  <img src="./png/playStore.png" width="200" height="auto" />
-</a>
+<img src="./Projects/Dota2/home.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/matchDetails.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/tfDetails.jpeg" width="200" height="auto"> <img src="./Projects/Dota2/heroDetails.jpeg" width="200" height="auto">>
 
 ## [DF Bus (Flutter)](https://github.com/Emerson2342/df-bus)
+
+<a href="https://play.google.com/store/apps/details?id=com.missinhoo.df_bus&hl=pt_BR" target="_blank" rel="noopener noreferrer">
+  <img src="./png/playStore.png" width="150" height="auto" />
+</a>
 
 - Pesquise as linhas de ônibus do Distrito Federal;
 - Pesquiser por origem e destino;
@@ -54,10 +58,6 @@
 - Acompanhe a localização atual dos ônibus;
 
 <img src="./Projects/DfBus/linha.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/ref.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/rota.jpeg" width="200" height="auto"> <img src="./Projects/DfBus/horario.jpeg" width="200" height="auto">
-
-<a href="https://play.google.com/store/apps/details?id=com.missinhoo.df_bus&hl=pt_BR" target="_blank" rel="noopener noreferrer">
-  <img src="./png/playStore.png" width="200" height="auto" />
-</a>
 
 ## [Filmes e Séries (Flutter)](https://github.com/Emerson2342/filmes-series)
 
